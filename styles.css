@@ -1648,35 +1648,35 @@ textarea:focus {
   margin-top: 45vh;
 }
 .ux-mask-section:nth-child(1) .bg-image {
-  background-image: url("work1.png");
+  background-image: url("assets/images/work1.png");
   
 }
 .ux-mask-section:nth-child(1) .mask-layer {
-  background-image: url("work_mask1.png");
+  background-image: url("assets/images/work_mask1.png");
 }
 
 /* 2번 섹션 */
 .ux-mask-section:nth-child(2) .bg-image {
-  background-image: url("work2.png");
+  background-image: url("assets/images/work2.png");
 }
 .ux-mask-section:nth-child(2) .mask-layer {
-  background-image: url("work_mask2.png");
+  background-image: url("assets/images/work_mask2.png");
 }
 
 /* 3번 섹션 */
 .ux-mask-section:nth-child(3) .bg-image {
-  background-image: url("work3.png");
+  background-image: url("assets/images/work3.png");
 }
 .ux-mask-section:nth-child(3) .mask-layer {
-  background-image: url("work_mask3.png");
+  background-image: url("assets/images/work_mask3.png");
 }
 
 /* 4번 섹션 */
 .ux-mask-section:nth-child(4) .bg-image {
-  background-image: url("work4.png");
+  background-image: url("assets/images/work4.png");
 }
 .ux-mask-section:nth-child(4) .mask-layer {
-  background-image: url("work_mask4.png");
+  background-image: url("assets/images/work_mask4.png");
 } /*
 https://images.unsplash.com/photo-1523362628745-0c100150b7a1
 */

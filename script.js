@@ -347,7 +347,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 
-// UX OVER 변경 인터렉션
+// UX OVER 변경 인터랙션
 const sections = document.querySelectorAll(".ux-mask-section");
 
 sections.forEach((section) => {
